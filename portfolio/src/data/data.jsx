@@ -7,36 +7,19 @@ export const featuresData = [
   {
     id: 1,
     title: "Business Stratagy",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Knowledge in e-commerce website to  provide you with the best business strategy and enhance the sells statistics through e-commerce.",
   },
   {
     id: 2,
     icon: <AiFillAppstore />,
-    title: "App Development",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    title: "Web Development",
+    des: "Experience on creating both frontend and backend website for the client using  React.js, Node.js, Express.js and Mongodb",
   },
   {
     id: 3,
-    icon: <SiProgress />,
-    title: "SEO Optimisation",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
-  },
-  {
-    id: 4,
-    icon: <FaMobile />,
-    title: "Mobile Development",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
-  },
-  {
-    id: 5,
     icon: <SiAntdesign />,
     title: "UX Design",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Good design in figma for the costumer  to  understand easily and creating beautiful UI design for better interactivity."
   },
-  {
-    id: 6,
-    icon: <FaGlobe />,
-    title: "Hosting Websites",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
-  },
+
 ];
