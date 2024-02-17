@@ -4,18 +4,18 @@ import projectOne from "./projects/projectOne.jpg";
 import projectTwo from "./projects/projectTwo.jpg";
 // import projectThree from "./images/projects/projectThree.jpeg";
 // import testimonialOne from "./images/testmonial/testimonialOne.png";
-// import testimonialTwo from "./images/testmonial/testimonialTwo.png";
+// import testimonialTwo from "./images/testmonial/testimo` `123-/nialTwo.png";
 // import quote from "./images/testmonial/quote.png";
-// import contactImg from "./images/contact/contactImg.png";
+import contactImg from "./contact/contactImg.jpg";
 
 export {
 //   logo,
 //   bannerImg,
   projectOne,
-  projectTwo
+  projectTwo,
 //   projectThree,
 //   testimonialOne,
 //   testimonialTwo,
 //   quote,
-//   contactImg,
+  contactImg
 };
