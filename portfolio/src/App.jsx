@@ -1,5 +1,6 @@
 import React from "react";
 import Banner from "./components/banner/Banner";
+import Skill from "./components/skills/Skill";
 import Contact from "./components/contact/Contact";
 import Features from "./components/features/Features";
 // import Footer from "./components/footer/Footer";
@@ -15,6 +16,7 @@ function App() {
         <Navbar />
       <div className="max-w-screen-xl mx-auto">
         <Banner />
+        <Skill/>
          <Features />
          <Projects />
         {/* <Resume /> */}
