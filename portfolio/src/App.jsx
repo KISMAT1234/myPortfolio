@@ -3,8 +3,7 @@ import Banner from "./components/banner/Banner";
 import Skill from "./components/skills/Skill";
 import Contact from "./components/contact/Contact";
 import Features from "./components/features/Features";
-// import Footer from "./components/footer/Footer";
-// import FooterBottom from "./components/footer/FooterBottom";
+import Footer from "./components/footer/Footer";
 import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 // import Resume from "./components/resume/Resume";
@@ -22,8 +21,7 @@ function App() {
         {/* <Resume /> */}
         {/* <Testimonial /> */}
         <Contact />
-        {/* <Footer /> */}
-        {/* <FooterBottom />  */}
+        <Footer />
       </div>
     </div>
   );
