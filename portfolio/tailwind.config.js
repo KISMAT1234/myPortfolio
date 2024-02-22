@@ -18,10 +18,10 @@ module.exports = {
         titleFont: ["Montserrat", "sans-serif"],
       },
       colors: {
-        bodyColor: "#0049B7",
+        bodyColor: "#222831",
         lightText: "#c4cfde",
         boxBg: "linear-gradient(145deg, #1e2024, #23272b)",
-        designColor: "#ff014f",
+        designColor: "#c026d3",
       },
       boxShadow: {
         shadowOne: "rgba(0, 0, 0, 0.25) 0px 25px 50px -12px"
