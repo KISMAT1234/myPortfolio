@@ -1,4 +1,4 @@
-import { SiTailwindcss, SiFigma, SiNextdotjs, SiHtml5, SiRedux, SiJavascript, SiNodedotjs,SiExpress,SiMongodb,SiGraphql,SiGithub  } from "react-icons/si";
+import { SiTailwindcss, SiFigma, SiNextdotjs, SiHtml5, SiRedux, SiJavascript, SiNodedotjs,SiExpress,SiMongodb,SiGraphql,SiGithub,SiPostman,SiMysql   } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 
 const Skill = () =>{
@@ -35,8 +35,12 @@ const Skill = () =>{
                      <span className="skillIcon">
                      <SiNodedotjs />
                      </span>
+                   
                      <span className="skillIcon">
                      <SiExpress />
+                     </span>
+                     <span className="skillIcon">
+                     <SiMysql />
                      </span>
                      <span className="skillIcon">
                      <SiMongodb />
@@ -46,6 +50,9 @@ const Skill = () =>{
                      </span>
                      <span className="skillIcon">
                      <SiGithub />
+                     </span>
+                     <span className="skillIcon">
+                     <SiPostman />
                      </span>
                 </div>
             </div>
