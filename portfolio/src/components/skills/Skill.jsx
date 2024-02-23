@@ -12,47 +12,61 @@ const Skill = () =>{
                 </h1>
                 <div className="flex gap-4 flex-wrap ">
                      <span className="skillIcon">
-                     <SiHtml5 />
+                      <SiHtml5 className="absolute"/>
+                      <h1 className="text-5xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">HTML</h1>
                      </span>
                      <span className="skillIcon">
-                       <SiFigma />
+                        <SiFigma className="absolute"/>
+                        <h1 className="text-5xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">FIGMA</h1>
                      </span>
                      <span className="skillIcon">
-                       <SiTailwindcss />
+                        <SiTailwindcss className="absolute"/>
+                        <h1 className="text-3xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">TAILWIND CSS</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiJavascript />
+                      <SiJavascript className="absolute"/>
+                      <h1 className="text-2xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">JAVASCRIPT</h1>
                      </span>
                      <span className="skillIcon">
-                     <FaReact />
+                      <FaReact className="absolute"/>
+                      <h1 className="text-5xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">REACT</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiRedux />
+                      <SiRedux className="absolute"/>
+                      <h1 className="text-4xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">REDUX</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiNextdotjs />
+                      <SiNextdotjs className="absolute"/>
+                      <h1 className="text-5xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">NEXT JS</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiNodedotjs />
+                      <SiNodedotjs className="absolute"/>
+                      <h1 className="text-5xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">NODE JS</h1>
                      </span>
                    
                      <span className="skillIcon">
-                     <SiExpress />
+                      <SiExpress className="absolute"/>
+                      <h1 className="text-4xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">EXPRESS JS</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiMysql />
+                      <SiMysql className="absolute"/>
+                      <h1 className="text-5xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">SQL</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiMongodb />
+                      <SiMongodb className="absolute"/>
+                      <h1 className="text-4xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">MONGO DB</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiGraphql />
+                      <SiGraphql className="absolute"/>
+                      <h1 className="text-3xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">GRAPHQL</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiGithub />
+                      <SiGithub className="absolute"/>
+                      <h1 className="text-3xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">GITHUB</h1>
                      </span>
                      <span className="skillIcon">
-                     <SiPostman />
+                      <SiPostman className="absolute"/>
+                      <h1 className="text-3xl  relative opacity-0 hover:opacity-100 text-orange-600 font-serif">POSTMAN</h1>
                      </span>
                 </div>
             </div>
