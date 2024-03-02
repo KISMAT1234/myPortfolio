@@ -19,13 +19,13 @@ const Projects = () => {
         <ProjectsCard
           title="E-commerce Website"
           des="Restaurant website for client who wants to order their favourite food through website and home deliveriy 
-          is also available for the customer who needs the food under 1 hour"
+          is also available for the customer who needs the food under 1 hour."
           src={projectOne}
         />
         <ProjectsCard
           title="Todo-List  App"
           des="User can pick the randomly used number through this website . The user will be able to add a 
-          new name and delete it when needed."
+          new name and delete it when needed.And user can also  mark as completed if they have done their task."
           src={projectTwo}
         />
         <ProjectsCard
