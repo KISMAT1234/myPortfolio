@@ -30,8 +30,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Chatting app using socket i.o"
         //   src={projectThree}
         />
 
