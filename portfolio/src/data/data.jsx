@@ -19,7 +19,7 @@ export const featuresData = [
     id: 3,
     icon: <SiAntdesign />,
     title: "UX Design",
-    des: "Good design in figma for the costumer  to  understand easily and creating beautiful UI design for better interactivity."
+    des: "Good design in figma for the costumer  to  understand easily and creating beautiful UI design for better interactivity and layouts."
   },
 
 ];
