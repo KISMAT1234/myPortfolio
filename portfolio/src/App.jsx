@@ -12,6 +12,25 @@ import Projects from "./components/projects/Projects";
 function App() {
   return (
     <div className="w-full h-auto bg-bodyColor text-lightText px-4">
+      <Particles
+    params={{
+	    "particles": {
+	        "number": {
+	            "value": 50
+	        },
+	        "size": {
+	            "value": 3
+	        }
+	    },
+	    "interactivity": {
+	        "events": {
+	            "onhover": {
+	                "enable": true,
+	                "mode": "repulse"
+	            }
+	        }
+	    }
+	}} />
         <Navbar />
       <div className="max-w-screen-xl mx-auto">
         <Banner />
