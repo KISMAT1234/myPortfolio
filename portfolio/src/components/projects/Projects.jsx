@@ -17,21 +17,19 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="E-commerce Website"
+          title="Food-Order"
           des="Restaurant website for client who wants to order their favourite food through website and home deliveriy 
           is also available for the customer who needs the food under 1 hour."
           src={projectOne}
         />
         <ProjectsCard
-          title="Todo-List  App"
-          des="User can pick the randomly used number through this website . The user will be able to add a 
-          new name and delete it when needed.And user can also  mark as completed if they have done their task."
+          title="Fund raising Project"
+          des="A user can start to fund raise for the vicitm in this website. Payment Gateway, Comments, Strong search functionality, notification and athentication are the main feature of this website."
           src={projectTwo}
         />
         <ProjectsCard
-          title="Chatting App"
-          des="Chatting app using socket i.o"
-        //   src={projectThree}
+          title="Anonomous message"
+          des="Anyone can send message to anyone but their identity is been hidden which makes a unique feature of this project. Advanced authentication i.e authjs is used to make user id pw more secured"
         />
 
       </div>
